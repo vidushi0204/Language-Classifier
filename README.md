@@ -1,8 +1,8 @@
-# CNN for Handwritten Script Classification into 8 Indian Languages
+# Neural Networks for Handwritten Script Classification into 8 Indian Languages
 
 ## Objective
 
-The objective of this project is to develop and optimize a **Convolutional Neural Network (CNN)** to classify handwritten scripts from **8 Indian languages**. The CNN is trained on labeled image data and tested for its ability to accurately predict the script category for unseen images. The model achieved **86% accuracy** on the test set.
+The objective of this project is to develop and optimize a **basic Neural Network** and a **Convolutional Neural Network (CNN)** to classify handwritten scripts from **8 Indian languages**. The NNs are trained on labeled image data and tested for their ability to accurately predict the script category for unseen images. 
 
 ## CNN Model Structure and Hyperparameters
 
