@@ -1,4 +1,4 @@
-# Neural Networks for Handwritten Script Classification into 8 Indian Languages
+# Handwritten Script Classification into 8 Indian Languages
 
 ## Objective
 
